@@ -10,23 +10,32 @@ And folder “public” contains frontend with index.html, js and css files. “
 
 
 #### Usage.
-Be sure to install docker previous and start it like daemon. 
+Be sure to install docker previous and start it like daemon.
+
 Then clone git and go to src folder.
 
 `git clone https://github.com/ssh-user/learn_docker.git`
 `cd learn_docker/src/`
 
 Build containers.
-`make build`  
+
+`make build`
 
 then
+
 `make start`
 
-and check in browser localhost or your ip. 
+and check in browser localhost or your ip.
+ 
 You’ll see 
+
+<p align="center">
 ![Alt text](https://github.com/ssh-user/learn_docker/blob/master/result.jpg)
+</p>
+
 
 Good. All work as expected.
+
 Don’t forget to stop and then remove that containers.
 
 `make stop`
