@@ -1,4 +1,4 @@
-###This repo created like note and template to work with docker.
+### This repo created like note and template to work with docker.
 
 Control of containers is management through util ‘make’ by cli command ( build, start, stop, remove).
 
@@ -9,7 +9,7 @@ Project contained three docker containers. First of them is an nginx which use l
 And folder “public” contains frontend with index.html, js and css files. “public” folder will link to container with nginx.
 
 
-####Usage.
+#### Usage.
 Be sure to install docker previous and start it like daemon. 
 Then clone git and go to src folder.
 
@@ -36,4 +36,4 @@ and
 `make remove`
 
 
-####Have a good day!
+#### Have a good day!
