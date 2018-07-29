@@ -30,7 +30,7 @@ and check in browser localhost or your ip.
 You’ll see 
 
 <p align="center">
-![Alt text](https://github.com/ssh-user/learn_docker/blob/master/result.jpg)
+	<img src="https://github.com/ssh-user/learn_docker/blob/master/result.jpg">
 </p>
 
 
